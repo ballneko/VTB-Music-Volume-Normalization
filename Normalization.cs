@@ -30,7 +30,7 @@ namespace VTB_Music_Volume_Normalization
         /// <param name="mediaFileName">输入媒体文件名称</param>
         /// <param name="outPutFileName">输出媒体文件名称</param>
         /// <param name="Kbps">码率</param>
-        /// <param name="Dbm">音量东西</param>
+        /// <param name="Dbm">音量大小</param>
         /// <param name="isLog">是否返回日志</param>
         /// <returns></returns>
         public string RunNormalization(string mediaFileName,string outPutFileName,string Kbps,string Dbm,bool isLog)
