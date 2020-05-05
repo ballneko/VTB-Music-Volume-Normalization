@@ -11,3 +11,7 @@ normalization.RunNormalizationForVTB("输入文件名称","输出文件名称",t
 Normalization normalization = new Normalization();
 normalization.RunNormalization("输入文件名称","输出文件名称","码率 例如:192k","音量大小 例如:-5dBm",true); // 最后一个参数为是否输出日志
 ```
+# 注意事项
+- 需要安装 Python 3.x
+- 需要安装 ffmpeg 并添加到环境变量
+- 需要安装 ffmpeg-normalize
