@@ -15,3 +15,4 @@ normalization.RunNormalization("输入文件名称","输出文件名称","码率
 - 需要安装 Python 3.x
 - 需要安装 ffmpeg 并添加到环境变量
 - 需要安装 ffmpeg-normalize
+- 需要 .NET Core
